@@ -6,3 +6,4 @@ def main():
     example.example()
 
 main()
+print("End of python example")
