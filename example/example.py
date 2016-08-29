@@ -2,4 +2,4 @@
 
 
 def example():
-    print("An example that prints {0}".format(123))
+    print("An example that prints {0}".format(12345))
